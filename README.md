@@ -1,3 +1,5 @@
+<!--
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
@@ -12,3 +14,7 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+整段整段的不可见内容
+-->
+
+## To use the Creative Theme template in your project
